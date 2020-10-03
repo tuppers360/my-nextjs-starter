@@ -1,4 +1,4 @@
-# Next.js Starter with Sass
+# Next.tsx Starter with Sass
 
 Use Sass & Typescript to start your Next.tsx app with CSS superpowers!
 
